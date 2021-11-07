@@ -2,4 +2,4 @@
 
 ---
 
-### Za pokretanje zadataka potrebno je da imate instaliranu Juliu
+### Za pokretanje zadataka potrebno je da imate instaliranu [Juliu](https://julialang.org/)
